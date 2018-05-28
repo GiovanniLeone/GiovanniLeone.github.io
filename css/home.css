@@ -55,8 +55,6 @@ a:active {
 .hlbutton span {
   font-size: 1.6rem;
   background-color: red;
-  background-repeat: no-repeat;
-  background-size: cover;
   padding: 3.4rem 5rem 3.4rem 5rem;
   border-radius: 3rem;
 
