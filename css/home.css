@@ -61,6 +61,7 @@ a:active {
 }
 
 .hlbutton span a {
+  background-color: red;
   color: white;
   font-weight: 900;
 }
