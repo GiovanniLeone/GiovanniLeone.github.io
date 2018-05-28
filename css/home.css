@@ -1,0 +1,206 @@
+
+
+nav {
+  background-color: red;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav span {
+  color: white;
+  margin-right: 5rem;
+  font-weight: 500;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+}
+
+a:active {
+  color: midnightblue;
+}
+
+.introcontainer {
+  padding-top: 3rem;
+  background-color: white;
+  padding-bottom: 5rem;
+  display: flex;
+  justify-content: center;
+}
+
+.intro {
+  font-size: 2rem;
+  text-align: center;
+  width: 65%;
+}
+.hlbuttoncontainer {
+  display: flex;
+  justify-content: center;
+  background-color: blue;
+  padding-bottom: 7rem;
+
+}
+
+.hlbutton {
+  color: white;
+  text-align: center;
+}
+
+.hlbutton span {
+  font-size: 1.6rem;
+  background-image: url('/Applications/Heroes & Legends Website/Resources/Images/flag.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 3.4rem 5rem 3.4rem 5rem;
+  border-radius: 3rem;
+  opacity: .4;
+
+}
+
+.hlbutton span a {
+  color: black;
+  font-weight: 900;
+}
+
+.hlbutton span a:hover {
+  color: white;
+}
+
+.hlbutton span:hover {
+  padding: 3rem 4.5rem 3rem 4.5rem;
+}
+
+.hlbutton h1 {
+  margin-bottom: 5rem;
+}
+
+footer {
+  display: flex;
+  justify-content: space-around;
+  background-color: red;
+  color: white;
+}
+
+.contact {
+  text-align: center;
+}
+
+.contact p:first-child {
+  font-size: 1.3rem;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.address {
+  text-align: center;
+}
+
+.address p:first-child {
+  font-size: 1.3rem;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.main_content {
+  font-size: 1.3rem;
+  line-height: 2rem;
+  padding-top: 3rem;
+  padding-bottom: 2rem;
+  margin-bottom: 3rem;
+  background-color: blue;
+  color: white;
+}
+
+.content1 {
+  display: flex;
+  justify-content: space-around;
+}
+
+.shughart_gordon {
+  width: 50%;
+  text-align: center;
+}
+
+.lewis_clark {
+  width: 50%;
+  text-align: center;
+}
+
+.content2 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 6rem;
+}
+
+.desmond_doss {
+  width: 50%;
+  text-align: center;
+}
+
+.rockefeller {
+  width: 50%;
+  text-align: center;
+}
+
+.washington {
+  width: 50%;
+  text-align: center;
+}
+
+.hawking {
+  width: 50%;
+  text-align: center;
+}
+
+.jobs {
+  width: 50%;
+  text-align: center;
+}
+
+.macarthur {
+  width: 50%;
+  text-align: center;
+}
+
+.button {
+  background-color: white;
+  padding: 1rem 1rem 1rem 1rem;
+  border-radius: 1rem;
+}
+
+.button a {
+  color: black;
+}
+
+.arrow {
+  display: block;
+  font-size: 5rem;
+  text-align: center;
+  border-style: solid;
+  border-width: .25rem;
+  margin-bottom: 3rem;
+}
+
+.arrow a {
+  color: black;
+}
+
+.backarrow {
+  font-size: 7rem;
+  margin-top: 5rem;
+}
+
+.backarrow a {
+  color: black;
+}
+
+.image {
+  width: 400px;
+  height: 270px;
+}

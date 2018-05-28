@@ -1,0 +1,31 @@
+body {
+  background-color: blue;
+  color: white;
+}
+
+.contact_container {
+  padding-left: 25rem;
+}
+
+.contact_title {
+  margin-bottom: 5rem;
+  padding-top: 10rem;
+}
+
+.contact_name {
+  margin-bottom: 4rem;
+  border-style: solid;
+  padding-bottom: 1rem;
+}
+
+.contact_number {
+  margin-bottom: 4rem;
+  border-style: solid;
+  padding-bottom: 1rem;
+}
+
+.contact_email {
+  margin-bottom: 4rem;
+  border-style: solid;
+  padding-bottom: 1rem;
+}
