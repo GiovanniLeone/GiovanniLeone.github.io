@@ -5,6 +5,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  height: 8rem;
 }
 
 nav span {
@@ -205,6 +206,7 @@ footer {
 }
 
 .logo {
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
+  margin-left: 1rem;
 }
